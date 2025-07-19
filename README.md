@@ -15,5 +15,5 @@ Fichiers:
 -style.css : Styles CSS incluant variables, animations et mode sombre ,
 -script.js : Script JavaScript gérant la bascule de thème et les animations,
 -des images des oeuvres d'arts utilisées,
--une video de capture d'écran montrant le resultat final sur google chrome.
+-une video de capture d'écran montrant le resultat final sur google chrome.(galerie
 
