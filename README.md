@@ -17,3 +17,4 @@ Fichiers:
 -des images des oeuvres d'arts utilisées,
 -une video de capture d'écran montrant le resultat final sur google chrome.(galerie
 
+LIEN DE DEMONSTRATION: file:///C:/Users/hp/Desktop/kadia_1st%20project/index_galerie.html
